@@ -1,0 +1,10 @@
+A5SaveTimeStamp:20170829160916512
+css:iOS7
+cssIcon:font-awesome
+subComponent:admin.a5wcmp
+subComponent:tec.a5wcmp
+copyfile:{C:\Users\Desarrollador\Documents\Prototipo Nubison division equipos\dimacofi.WebProjects\Default.WebProject\img\logoNubison.png}
+subComponent:admin
+subComponent:tec
+precomputedUXComponent: {functionName: 'PRECOMPUTEDUX_d5393668c0c641998673540a6fdf4ea0_admin', uxname: 'admin', alias: '{alias}_ADMIN_155030IAIH'}
+precomputedUXComponent: {functionName: 'PRECOMPUTEDUX_a75dd6de59c040f5bd482ed2f07f70c2_tec', uxname: 'tec', alias: '{alias}_TEC_93749IEFF'}
