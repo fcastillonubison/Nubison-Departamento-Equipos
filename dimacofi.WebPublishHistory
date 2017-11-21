@@ -6738,4 +6738,354 @@
 <target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2304\temphttp___nubisonlab_cl___1580\nubisonde">
 <timestamp=CTODT('12/09/2017 09:53:04 54 am')>
 >
+<[1349]<type="A5WPage">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\index.a5w}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2256\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('12/10/2017 03:47:58 40 pm')>
+>
+<[1350]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\admin.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2256\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('12/10/2017 03:47:58 73 pm')>
+>
+<[1351]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\login.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2256\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('12/10/2017 03:47:58 78 pm')>
+>
+<[1352]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\tec.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2256\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('12/10/2017 03:47:59 26 pm')>
+>
+<[1353]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\css\cssicons\font-awesome\css\font-awesome.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2256\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('12/10/2017 03:47:59 29 pm')>
+>
+<[1354]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\css\cssicons\font-awesome\css\font-awesome.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2256\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('12/10/2017 03:47:59 29 pm')>
+>
+<[1355]<type="css">
+<name="a5system">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2256\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('12/10/2017 03:48:00 04 pm')>
+>
+<[1356]<type="css">
+<name="ios7">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2256\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('12/10/2017 03:48:00 37 pm')>
+>
+<[1357]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\project.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2256\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('12/10/2017 03:48:00 46 pm')>
+>
+<[1358]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\coment.mdb}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2256\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('12/10/2017 03:48:00 50 pm')>
+>
+<[1359]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.eot}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2256\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('12/10/2017 03:48:00 53 pm')>
+>
+<[1360]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.svg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2256\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('12/10/2017 03:48:00 54 pm')>
+>
+<[1361]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2256\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('12/10/2017 03:48:00 55 pm')>
+>
+<[1362]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.woff2}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2256\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('12/10/2017 03:48:00 56 pm')>
+>
+<[1363]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.woff}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2256\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('12/10/2017 03:48:00 57 pm')>
+>
+<[1364]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome.otf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2256\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('12/10/2017 03:48:00 58 pm')>
+>
+<[1365]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\img\9patchsplashscreen.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2256\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('12/10/2017 03:48:00 58 pm')>
+>
+<[1366]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\img\isotipo.ico}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2256\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('12/10/2017 03:48:00 59 pm')>
+>
+<[1367]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\img\isotipo.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2256\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('12/10/2017 03:48:00 59 pm')>
+>
+<[1368]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\img\landscapesplashscreen.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2256\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('12/10/2017 03:48:00 59 pm')>
+>
+<[1369]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\img\logo.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2256\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('12/10/2017 03:48:00 60 pm')>
+>
+<[1370]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\img\logonubison.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2256\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('12/10/2017 03:48:00 60 pm')>
+>
+<[1371]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\img\nopic.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2256\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('12/10/2017 03:48:00 60 pm')>
+>
+<[1372]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\img\portraitsplashscreen.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2256\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('12/10/2017 03:48:00 60 pm')>
+>
+<[1373]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\img\sqllite}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2256\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('12/10/2017 03:48:00 60 pm')>
+>
+<[1374]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\img\t1.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2256\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('12/10/2017 03:48:00 61 pm')>
+>
+<[1375]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\img\t2.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2256\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('12/10/2017 03:48:00 61 pm')>
+>
+<[1376]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\img\t3.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2256\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('12/10/2017 03:48:00 61 pm')>
+>
+<[1377]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\img\t4.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2256\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('12/10/2017 03:48:00 61 pm')>
+>
+<[1378]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\logo.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2256\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('12/10/2017 03:48:00 62 pm')>
+>
+<[1379]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\nopic.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2256\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('12/10/2017 03:48:00 62 pm')>
+>
+<[1380]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\ot.json}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2256\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('12/10/2017 03:48:00 62 pm')>
+>
+<[1381]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\ot_coment}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2256\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('12/10/2017 03:48:00 63 pm')>
+>
+<[1382]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\projectproperties.projectproperties}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2256\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('12/10/2017 03:48:00 63 pm')>
+>
+<[1383]<type="calendaricons">
+<name="calendaricons">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2256\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('12/10/2017 03:39:43 92 pm')>
+>
+<[1384]<type="cssIcon">
+<name="font-awesome">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_2256\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('12/10/2017 03:39:46 04 pm')>
+>
+<[1385]<type="A5WPage">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\index.a5w}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4360\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('26/10/2017 10:44:28 04 am')>
+>
+<[1386]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\admin.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4360\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('26/10/2017 10:44:28 36 am')>
+>
+<[1387]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\login.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4360\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('26/10/2017 10:44:28 41 am')>
+>
+<[1388]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\tec.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4360\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('26/10/2017 10:44:28 88 am')>
+>
+<[1389]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\css\cssicons\font-awesome\css\font-awesome.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4360\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('26/10/2017 10:44:28 89 am')>
+>
+<[1390]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\css\cssicons\font-awesome\css\font-awesome.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4360\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('26/10/2017 10:44:28 90 am')>
+>
+<[1391]<type="css">
+<name="a5system">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4360\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('26/10/2017 10:44:29 33 am')>
+>
+<[1392]<type="css">
+<name="ios7">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4360\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('26/10/2017 10:44:29 62 am')>
+>
+<[1393]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\project.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4360\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('26/10/2017 10:44:29 70 am')>
+>
+<[1394]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\coment.mdb}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4360\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('26/10/2017 10:44:29 78 am')>
+>
+<[1395]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.eot}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4360\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('26/10/2017 10:44:29 84 am')>
+>
+<[1396]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.svg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4360\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('26/10/2017 10:44:29 87 am')>
+>
+<[1397]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4360\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('26/10/2017 10:44:29 88 am')>
+>
+<[1398]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.woff2}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4360\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('26/10/2017 10:44:29 89 am')>
+>
+<[1399]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.woff}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4360\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('26/10/2017 10:44:29 90 am')>
+>
+<[1400]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome.otf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4360\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('26/10/2017 10:44:29 92 am')>
+>
+<[1401]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\img\9patchsplashscreen.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4360\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('26/10/2017 10:44:29 94 am')>
+>
+<[1402]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\img\isotipo.ico}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4360\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('26/10/2017 10:44:29 96 am')>
+>
+<[1403]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\img\isotipo.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4360\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('26/10/2017 10:44:29 98 am')>
+>
+<[1404]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\img\landscapesplashscreen.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4360\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('26/10/2017 10:44:29 99 am')>
+>
+<[1405]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\img\logo.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4360\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('26/10/2017 10:44:30 00 am')>
+>
+<[1406]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\img\logonubison.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4360\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('26/10/2017 10:44:30 01 am')>
+>
+<[1407]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\img\nopic.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4360\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('26/10/2017 10:44:30 05 am')>
+>
+<[1408]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\img\portraitsplashscreen.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4360\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('26/10/2017 10:44:30 08 am')>
+>
+<[1409]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\img\sqllite}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4360\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('26/10/2017 10:44:30 08 am')>
+>
+<[1410]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\img\t1.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4360\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('26/10/2017 10:44:30 08 am')>
+>
+<[1411]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\img\t2.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4360\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('26/10/2017 10:44:30 10 am')>
+>
+<[1412]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\img\t3.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4360\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('26/10/2017 10:44:30 11 am')>
+>
+<[1413]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\img\t4.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4360\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('26/10/2017 10:44:30 14 am')>
+>
+<[1414]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\logo.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4360\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('26/10/2017 10:44:30 15 am')>
+>
+<[1415]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\nopic.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4360\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('26/10/2017 10:44:30 17 am')>
+>
+<[1416]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\ot.json}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4360\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('26/10/2017 10:44:30 26 am')>
+>
+<[1417]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\ot_coment}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4360\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('26/10/2017 10:44:30 28 am')>
+>
+<[1418]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division equipos\dimacofi.webprojects\default.webproject\projectproperties.projectproperties}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4360\temphttp___nubisonlab_cl___1580\nubisonde">
+<timestamp=CTODT('26/10/2017 10:44:30 29 am')>
+>
 >
