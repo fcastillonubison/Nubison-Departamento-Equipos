@@ -1,9 +1,9 @@
-A5SaveTimeStamp:20171026121138705
+A5SaveTimeStamp:20171127113813459
 css:iOS7
 cssIcon:font-awesome
 subComponent:admin.a5wcmp
 subComponent:tec.a5wcmp
-copyfile:{C:\Users\Desarrollador\Documents\Prototipo Nubison division equipos\dimacofi.WebProjects\Default.WebProject\img\logoNubison.png}
+copyfile:{C:\Users\Desarrollador\Documents\Prototipo Nubison division equipos\dimacofi.WebProjects\Default.WebProject\img\icons8-maintenance-96ICON2.png}
 subComponent:admin
 subComponent:tec
 precomputedUXComponent: {functionName: 'PRECOMPUTEDUX_d5393668c0c641998673540a6fdf4ea0_admin', uxname: 'admin', alias: '{alias}_ADMIN_155030IAIH'}

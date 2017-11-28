@@ -1,11 +1,11 @@
 {
-	"_id": "2862693",
-	"_icon": "C:\\Users\\Desarrollador\\Documents\\Prototipo Nubison division equipos\\dimacofi.WebProjects\\Default.WebProject\\img\\isotipo.png",
+	"_id": "2904149",
+	"_icon": "C:\\Users\\Desarrollador\\Documents\\Prototipo Nubison division equipos\\dimacofi.WebProjects\\Default.WebProject\\img\\icons8-maintenance-96ICON2.png",
 	"_ssL": "C:\\Users\\Desarrollador\\Documents\\Prototipo Nubison division equipos\\dimacofi.WebProjects\\Default.WebProject\\img\\landscapeSplashScreen.png",
 	"_ssP": "C:\\Users\\Desarrollador\\Documents\\Prototipo Nubison division equipos\\dimacofi.WebProjects\\Default.WebProject\\img\\portraitSplashScreen.png",
 	"_ssA9": "C:\\Users\\Desarrollador\\Documents\\Prototipo Nubison division equipos\\dimacofi.WebProjects\\Default.WebProject\\img\\9patchSplashScreen.png",
 	"_initialUxComponent": "login",
-	"_componentLastUpdated": "26/10/2017 12:11:38 78 pm",
+	"_componentLastUpdated": "27/11/2017 11:38:13 54 am",
 	"_ajaxUrl": "http://nubisonlab.cl:1580/nubisonde/",
 	"_additionalFiles": "img\\isotipo.png\nimg\\logo.png\nimg\\noPic.jpg\nnoPic.jpg\nimg\\isotipo.ico\nimg\\t1.jpg\nimg\\t2.jpg\nimg\\t3.jpg\nimg\\t4.jpg\nimg\\logoNubison.png",
 	"_userName": "wtwx6irfQI3iOx7OvgJt1zo2UrrNaJJqmN8Feh/S5gI=",
@@ -33,5 +33,6 @@
 	"_windowsBuildFlag": false,
 	"launchAppManager": true,
 	"_sqlitedbdefined": false,
-	"cliProjectFolder": ""
+	"cliProjectFolder": "",
+	"_phonegapBuilderVersion": "1"
 }
